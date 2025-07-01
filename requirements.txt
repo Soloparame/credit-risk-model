@@ -13,3 +13,9 @@ woe
 mlflow
 pytest
 scikit-learn
+fastapi
+uvicorn
+mlflow
+pydantic
+flake8
+black
